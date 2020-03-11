@@ -3,5 +3,10 @@
  *
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
+import React from 'react';
+import ModeProvider from './src/context/ModeProvider';
 
-// You can delete this file if you're not using it
+// TODO: NEED TO FIX BELOW TS STUFF!!!
+export const wrapRootElement = ({ element }) => {
+  return <ModeProvider>{element}</ModeProvider>;
+};
