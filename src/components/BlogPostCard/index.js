@@ -25,11 +25,11 @@ const BlogPostCard = ({ slug, title, date, readingTime, excerpt, image }) => (
       </Link>
       <StatWrapper>
         <DateWrapper>
-          <img src={DateIcon} />
+          <img src={DateIcon} alt="date" />
           {date}
         </DateWrapper>
         <ReadingTimeWrapper>
-          <img src={TimeIcon} />
+          <img src={TimeIcon} alt="time" />
           {readingTime}
         </ReadingTimeWrapper>
       </StatWrapper>

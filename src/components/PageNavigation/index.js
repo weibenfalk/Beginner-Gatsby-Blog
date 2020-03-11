@@ -15,7 +15,8 @@ const PageNavigation = ({ currentPage, numPages }) => (
     <ImgWrapper>
       {currentPage !== 1 && (
         <Link to={`/${currentPage === 2 ? '' : currentPage - 1}`}>
-          <img src={LeftIcon} alt="left-nav" role="button" />
+          <input src={LeftIcon} type="image" alt="left-nav"  />
+          {/* <img src={LeftIcon} alt="left-nav" role="button" /> */}
         </Link>
       )}
     </ImgWrapper>
@@ -27,7 +28,8 @@ const PageNavigation = ({ currentPage, numPages }) => (
     <ImgWrapper>
       {currentPage !== numPages && (
         <Link to={`/${currentPage + 1}`}>
-          <img src={RightIcon} alt="left-nav" role="button" />
+          <input type="image" src={RightIcon} alt="right-nav" />
+          {/* <img src={RightIcon} alt="right-nav" role="button" /> */}
         </Link>
       )}
     </ImgWrapper>
