@@ -8,7 +8,7 @@ export const PageNavigationWrapper = styled.div`
   max-width: var(--site-max-width);
   margin: 0 0 40px 0;
 
-  img {
+  input {
     width: 100%;
     cursor: pointer;
     transition: all 0.3s ease;

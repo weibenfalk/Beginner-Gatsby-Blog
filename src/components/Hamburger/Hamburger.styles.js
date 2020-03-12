@@ -1,7 +1,12 @@
-import styled from 'styled-components';
+import styled, { createGlobalStyle } from 'styled-components';
+
+export const OverrideGlobalStyle = createGlobalStyle`
+  body {
+    overflow: ${props => props.isMobile ? 'hidden' : 'auto'};
+  }
+`;
 
 export const HamburgerIcon = styled.div`
-  position: fixed;
   display: block;
   width: 30px;
   z-index: 1000;

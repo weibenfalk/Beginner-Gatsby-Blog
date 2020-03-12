@@ -58,8 +58,6 @@ export const GlobalStyles = createGlobalStyle`
     font-family: "Muli Regular", Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0 20px 80px 20px;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
     transition: all 0.5s ease;
   }
 

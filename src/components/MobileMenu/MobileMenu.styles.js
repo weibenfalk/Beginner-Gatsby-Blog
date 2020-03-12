@@ -3,9 +3,9 @@ import styled from 'styled-components';
 export const MobileMenuWrapper = styled.div`
   display: block;
   position: fixed;
-  left: ${props => (props.visible ? '0px' : '-300px')};
+  left: ${props => (props.visible ? '0px' : '-320px')};
   background: ${props => props.theme.colors.menuBackground};
-  width: 300px;
+  width: 320px;
   height: 100%;
   top: 0px;
   padding: 0 0 0 20px;

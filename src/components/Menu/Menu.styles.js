@@ -8,9 +8,7 @@ export const Nav = styled.ul`
   font-size: 1.2rem;
 
   @media screen and (min-width: 768px) {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: block;
   }
 
   a {
@@ -19,8 +17,9 @@ export const Nav = styled.ul`
   }
 
   li {
+    display: inline-block;
     margin-right: 20px;
-    transition: all 0.5s ease;
+    transition: opacity 0.5s ease;
     cursor: pointer;
 
     .active {
