@@ -62,7 +62,7 @@ export const blogListQuery = graphql`
             date
             image {
               childImageSharp {
-                fluid(maxWidth: 500, maxHeight: 500) {
+                fluid(maxWidth: 200, maxHeight: 200) {
                   ...GatsbyImageSharpFluid
                 }
               }
