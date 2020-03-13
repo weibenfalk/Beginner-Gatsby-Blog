@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2020-02-15'
-image: '../../images/blog-image-1.png'
+image: '../../images/blog-image-1.jpg'
 slug: 'post-1'
 title: 'Usu velit populo disputando ei'
 published: true

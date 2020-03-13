@@ -1,7 +1,7 @@
 ---
 type: 'page'
 date: '2020-02-15'
-image: '../images/blog-image-1.png'
+image: '../images/blog-image-1.jpg'
 slug: 'page-1'
 title: 'Usu velit populo disputando ei'
 ---

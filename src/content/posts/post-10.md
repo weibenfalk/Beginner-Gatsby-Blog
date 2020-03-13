@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2020-02-02'
-image: '../../images/blog-image-10.png'
+image: '../../images/blog-image-10.jpg'
 slug: 'post-10'
 title: 'Et sit mazim delicata'
 published: true

@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2020-02-05'
-image: '../../images/blog-image-7.png'
+image: '../../images/blog-image-7.jpg'
 slug: 'post-7'
 title: 'Ad propriae apeirian nec'
 published: true

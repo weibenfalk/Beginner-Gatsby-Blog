@@ -1,7 +1,7 @@
 ---
 type: 'page'
 date: '2020-02-10'
-image: '../images/blog-image-2.png'
+image: '../images/blog-image-2.jpg'
 slug: 'page-2'
 title: 'Ex ius nisl mucius eleifend'
 ---

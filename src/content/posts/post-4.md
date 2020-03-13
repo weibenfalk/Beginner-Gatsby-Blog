@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2020-02-08'
-image: '../../images/blog-image-4.png'
+image: '../../images/blog-image-4.jpg'
 slug: 'post-4'
 title: 'Vix diam labore ut'
 published: true

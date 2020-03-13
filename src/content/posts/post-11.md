@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2020-01-01'
-image: '../../images/blog-image-1.png'
+image: '../../images/blog-image-1.jpg'
 slug: 'post-11'
 title: 'Eam mucius deseruisse eu'
 published: true

@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2019-09-01'
-image: '../../images/blog-image-5.png'
+image: '../../images/blog-image-5.jpg'
 slug: 'post-15'
 title: 'Mea no consequat argumentum'
 published: true

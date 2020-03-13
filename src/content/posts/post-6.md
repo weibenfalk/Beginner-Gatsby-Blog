@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2020-02-06'
-image: '../../images/blog-image-6.png'
+image: '../../images/blog-image-6.jpg'
 slug: 'post-6'
 title: 'Dicam democritum disputationi'
 published: true

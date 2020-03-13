@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2020-02-09'
-image: '../../images/blog-image-3.png'
+image: '../../images/blog-image-3.jpg'
 slug: 'post-3'
 title: 'Ea mei aliquid repudiare voluptaria'
 published: true

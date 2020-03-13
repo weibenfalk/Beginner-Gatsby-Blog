@@ -1,7 +1,6 @@
 ---
 mdType: 'config'
 logo: '../images/blog-logo.svg'
-heroImage: '../images/hero-image.png'
 menu:
   - id: 'menu-item-1'
     name: 'About'

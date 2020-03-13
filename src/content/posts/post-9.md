@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2020-02-03'
-image: '../../images/blog-image-9.png'
+image: '../../images/blog-image-9.jpg'
 slug: 'post-9'
 title: 'Lorem ipsum dolor sit amet'
 published: true

@@ -1,7 +1,7 @@
 ---
 type: 'post'
 date: '2020-02-04'
-image: '../../images/blog-image-8.png'
+image: '../../images/blog-image-8.jpg'
 slug: 'post-8'
 title: 'Viris audiam his ne'
 published: true
